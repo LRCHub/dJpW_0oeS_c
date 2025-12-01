@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "カモフラージュ",
+  "base_artist": "szri",
+  "createdAt": "2025-12-01T12:49:51.433156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カモフラージュ",
+      "artist": "藤田 麻衣子",
+      "has_synced": false,
+      "path": "select/pl_01_カモフラージュ_藤田_麻衣子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "CAMOUFLAGE",
+      "artist": "藤田 麻衣子",
+      "has_synced": false,
+      "path": "select/pl_02_CAMOUFLAGE_藤田_麻衣子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "CAMOUFLAGE",
+      "artist": "藤田 麻衣子",
+      "has_synced": false,
+      "path": "select/pl_03_CAMOUFLAGE_藤田_麻衣子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Camouflage U",
+      "artist": "藤田 麻衣子",
+      "has_synced": false,
+      "path": "select/pl_04_Camouflage_U_藤田_麻衣子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カモフラージュ",
+      "artist": "藤田 麻衣子",
+      "has_synced": false,
+      "path": "select/pl_05_カモフラージュ_藤田_麻衣子.txt"
+    }
+  ]
+}
